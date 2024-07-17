@@ -1,5 +1,5 @@
 # Hi there, I'm Atharvaa Rane! 👋
-<img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif?cid=790b7611ht7h3pms3rsejedvtx13k5w3d4qrabw1s7eqjdq2&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="400" height="300" alt="Profile Banner">
+<img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif?cid=790b7611ht7h3pms3rsejedvtx13k5w3d4qrabw1s7eqjdq2&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="800" height="425" alt="Profile Banner">
 
 ## About Me
 
@@ -18,22 +18,22 @@ I am Atharvaa Rane, a first-generation master's student, currently pursuing a Ma
 ## Projects
 
 ### [University Hospital Recruitment System](https://github.com/atharvaa27/University_Hospital_Recruitment)
-<img src="https://media.giphy.com/media/3o6MbpQEYfJXcwdgCQ/giphy.gif?cid=ecf05e47ryr736dgoq8iyhlfyt741miq7bjpm9ycgmcxzyia&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="400" height="225" alt="Database">
+<img src="https://media.giphy.com/media/3o6MbpQEYfJXcwdgCQ/giphy.gif?cid=ecf05e47ryr736dgoq8iyhlfyt741miq7bjpm9ycgmcxzyia&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="200" height="125" alt="Database">
 
 Developed a comprehensive recruitment database system using MySQL, Docker, and Azure Data Studio to streamline the hiring process and enhance data integrity.
 
 ### [Financial News Sentiment Analysis](https://github.com/atharvaa27/NLP_FinancialNews_SentimentAnalysis)
-<img src="https://media.giphy.com/media/FzM6t9qJl39BxevREi/giphy.gif?cid=790b7611dfj7kpj15pi8ibjenl7tt8tl3wuu5qmusy8tus68&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="400" height="225" alt="Stock">
+<img src="https://media.giphy.com/media/FzM6t9qJl39BxevREi/giphy.gif?cid=790b7611dfj7kpj15pi8ibjenl7tt8tl3wuu5qmusy8tus68&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="200" height="125" alt="Stock">
 
 The goal of this project is to apply Natural Language Processing (NLP) techniques for sentiment analysis on financial and blockchain news data to derive insights that could influence decision-making and strategy development in these sectors.
 
 ### [Hospitality Dashboard using PowerBI](https://github.com/atharvaa27/Hospitality_Dashboard_using_PowerBI)
-<img src="https://media.giphy.com/media/iRIf7MAdvOIbdxK4rR/giphy.gif?cid=ecf05e47pppw634m0ljlfqes7smo9vk2hslyejq0t12b8awe&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="400" height="225" alt="Stock">
+<img src="https://media.giphy.com/media/iRIf7MAdvOIbdxK4rR/giphy.gif?cid=ecf05e47pppw634m0ljlfqes7smo9vk2hslyejq0t12b8awe&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="200" height="125" alt="Stock">
 This project involves creating an end-to-end dashboard for Atliq Grand, a multiple five-star hotel, to help them address a loss in market share by making data-informed decisions.
 
 
 ### [Residential Energy Consumption](https://github.com/atharvaa27/Residential_Energy_Consumption)
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHBhZzEzZ3UzNGRzOGFzMTlsdnJneXl5MzF5Zzgyano5cm9ybjlmZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/M0WG2i7RATxVBimGad/giphy.gif" width="400" height="225" alt="Stock">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHBhZzEzZ3UzNGRzOGFzMTlsdnJneXl5MzF5Zzgyano5cm9ybjlmZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/M0WG2i7RATxVBimGad/giphy.gif" width="200" height="125" alt="Stock">
 
 This project involves creating an end-to-end dashboard for Atliq Grand, a multiple five-star hotel, to help them address a loss in market share by making data-informed decisions.
 
