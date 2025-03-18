@@ -30,6 +30,11 @@ Developed a comprehensive recruitment database system using MySQL, Docker, and A
 
 The goal of this project is to apply Natural Language Processing (NLP) techniques for sentiment analysis on financial and blockchain news data to derive insights that could influence decision-making and strategy development in these sectors.
 
+### [Player Performance Prediction in Euro League Football](https://github.com/atharvaa27/Player_Performance_Prediction_in_Euro_League_Football)
+<img src="https://media.giphy.com/media/l2JdW4XMyNsguXEwo/giphy.gif?cid=790b7611sz4zsynzx1hzbugwnjammlsnq7zr0ktxtm83sf5y&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="200" height="125" alt="Stock">
+
+This project leverages machine learning and time series analysis to predict football player performance in European leagues, integrating historical data, weather conditions, and contextual factors for accurate forecasting.
+
 
 ### [Hospitality Dashboard using PowerBI](https://github.com/atharvaa27/Hospitality_Dashboard_using_PowerBI)
 <img src="https://media.giphy.com/media/iRIf7MAdvOIbdxK4rR/giphy.gif?cid=ecf05e47pppw634m0ljlfqes7smo9vk2hslyejq0t12b8awe&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="200" height="125" alt="Stock">
