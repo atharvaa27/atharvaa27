@@ -16,7 +16,7 @@ I am Atharvaa Rane, a first-generation master's student, currently pursuing a Ma
 - ⚡ **Fun Fact:** I enjoy hiking and exploring new technologies.
 
 ## Projects
-### [Syracuse City Line Project](https://github.com/atharvaa27/NLP_FinancialNews_SentimentAnalysis)
+### [Syracuse City Line Project](https://github.com/atharvaa27/Syracuse_City_Line_Project)
 <img src="https://media.giphy.com/media/iFswKsJa9VCK2pYadE/giphy.gif?cid=ecf05e47iyb6hton3rp18j8njvc99hjnat7dipqhr6920kb0&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="200" height="125" alt="Stock">
 
 Harnessing data science and machine learning to predict urban trends, enhance city planning, and improve public services—making Syracuse, my home for the past two years, smarter and more efficient!
